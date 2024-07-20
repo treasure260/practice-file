@@ -1,2 +1,2 @@
 console.log('change.js');
-console.log('featur1');
+console.log('feature2');
